@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("You Nên ko Cho sài script muốn ungay ib ")
