@@ -1,1 +1,0 @@
-game.Players.LocalPlayer:Kick("Pls script down do đag fix lỗi")
